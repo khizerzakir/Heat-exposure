@@ -246,7 +246,7 @@ The immediate development priorities are:
 5. test alternative H3 resolutions for local and neighbourhood analysis
 6. incorporate complementary thermal-stress information such as UTCI
 7. develop an interpretable heat-exposure and cooling-gap index
-8. create an interactive map for discussion with the Griffith team
+8. create an interactive map for discussion with team
 
 ## Repository contents
 
